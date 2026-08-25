@@ -24,4 +24,4 @@ Criar um "segundo cérebro" digital que transforma aprendizado em soluções pr�
 - Documentar cada projeto neste repositório ou em repositórios vinculados
 
 ## 👩‍💻 Sobre mim
-Sou estudante de Análise e Desenvolvimento de Sistemas, criadora da comunidade **devSquad**, com mais de 600 membros. Apaixonada por tecnologia, organização e aprendizado contínuo.
+Sou estudante de Análise e Desenvolvimento de Sistemas, criadora da comunidade **ConexaoDevSquad**, com mais de 1000 membros. Apaixonada por tecnologia, organização e aprendizado contínuo.
